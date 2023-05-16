@@ -1,8 +1,8 @@
 
-[Pokedex](https://hiltonesjr.github.io/mundo-invertido-dio-aula/) <br>
+[Pokedex](https://github.com/DanielMelo0/Pokedex-DIO) <br>
 
 
-Projeto de Estudos criando uma podekex
+Projeto de Estudos Criando uma Podekex com Poke API
 
 <img src="assets/img/pokedex 2023.JPG" align="center">
 
@@ -29,4 +29,4 @@ Projeto de Estudos criando uma podekex
 <HR>
 
 
-Projeto de estudo dio + inicialização a ultilização do GIT
+Projeto de Estudo DIO + inicialização a ultilização do GIT
